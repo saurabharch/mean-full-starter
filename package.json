@@ -34,7 +34,7 @@
     "bcrypt-nodejs": "^0.0.3",
     "bulma": "^0.6.2",
     "bulma-extensions": "^1.0.13",
-    "core-js": "^2.5.3",
+    "core-js": "^2.6.11",
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.2.0",
